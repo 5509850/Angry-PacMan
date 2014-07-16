@@ -1,0 +1,21 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Game.cs">
+    <Files>
+      <File FileName="Game.cs" Line="275" Column="58" />
+      <File FileName="Game.Buttons.cs" Line="24" Column="18" />
+      <File FileName="Classes.GameProcess.cs" Line="14" Column="21" />
+      <File FileName="Game.Score.cs" Line="1" Column="1" />
+      <File FileName="Classes.Player.cs" Line="63" Column="97" />
+      <File FileName="ActivityMain.cs" Line="24" Column="38" />
+      <File FileName="Classes.Enemy.cs" Line="77" Column="1" />
+      <File FileName="Resources\values\strings.xml" Line="5" Column="1" />
+      <File FileName="Resources\values-be\strings.xml" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.PacMan AndroidDeviceId-Debug="ab07899f" />
+</Properties>
